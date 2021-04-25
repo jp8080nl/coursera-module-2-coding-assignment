@@ -1,5 +1,8 @@
 # coursera-module-2-coding-assignment
 
+Issigment solution, can be viewed here:
+https://jp8080nl.github.io/coursera-module-2-coding-assignment/mod2_solution/
+
 This is an assignment from course
 https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome
 
